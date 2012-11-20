@@ -1,2 +1,1 @@
-Test configure"Hello" 
-"Hello again" 
+"configure.py" 
